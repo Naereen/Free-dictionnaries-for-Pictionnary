@@ -23,7 +23,7 @@ TODO cf [ce ticket #14](https://github.com/Naereen/Free-dictionnaries-for-Pictio
 ---
 
 ## :fr: En français
-Regardez ce fichier : [dictionnaire_pictionnary_francais.txt](dictionnaire_pictionnary_francais.txt).
+Regardez ce fichier : [`dist/dictionnaire_pictionnary_francais.txt`](dist/dictionnaire_pictionnary_francais.txt).
 
 Exemple de 10 mots : terre, climatiseur, guidon, balai, crier, télévision, banque, chasse, gel, linge.
 
@@ -39,7 +39,7 @@ Exemple de 10 mots : terre, climatiseur, guidon, balai, crier, télévision, ban
 
 ## :gb::us: In English - TODO
 
-See this file: [dictionnary_pictionnary_english.txt](dictionnary_pictionnary_english.txt).
+See this file: [`dist/dictionnary_pictionnary_english.txt`](dist/dictionnary_pictionnary_english.txt).
 
 Example of 10 words: TODO
 
