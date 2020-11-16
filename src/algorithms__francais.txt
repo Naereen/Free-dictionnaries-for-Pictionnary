@@ -1,0 +1,31 @@
+fonction
+algorithme
+programme
+test if/then/else
+boucle for
+boucle while
+tableau
+liste
+booléen
+entier
+réel
+flottant
+argument
+variable
+paramètre
+tri fusion
+tri rapide
+tri à bulle
+tri cocktail
+tri par tas
+arbre rouge-noir
+arbre AVL
+file de priorité
+pile
+file
+Dijkstra
+Floyd-Warshall
+Cocke-Younger-Kasami
+Hörner
+Karatsuba
+Strassen
