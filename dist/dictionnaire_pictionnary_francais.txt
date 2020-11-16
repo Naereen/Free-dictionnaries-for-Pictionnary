@@ -1,17 +1,211 @@
+Ada Lovelace
+aéroplane
+agrafer*
+Alan Turing
+Alastor "Fol-oeil" Moody
+Albus Dumbledore
+algorithme
+Antman
+Aquaman
+arbre AVL
+arbre rouge-noir
 arc-en-ciel
+argument
+Arthur Weasley
+Arya Stark
+Balon Greyjoy
+bandouillère*
+banquette*
 barre-à-mine
+Barristan Selmy
+Batgirl
+Batman
+Bellatrix Lestrange
+Benric Dondarrion
+best seller
+Bill Gates
+Black Panther
+Black Widow
+booléen
 bouc*
+boucle for
+boucle while
+Bran Stark
+Brienne de Tarth
 briser*
 brochure
+Bronn
 cabaret*
+calquer*
+Captain America
+Captain Piquard
+caramboler*
+Catlyn Stark
+Catwoman
+Cédric Diggory
+Censa Stark
+Cersei Lannister
+chaise pliante
+Charles de Gaulle
+chouette*
+cil*
 Cléopâtre*
+Cocke-Younger-Kasami
+convoi
+copier*
+Cornelius Fudge
+Craster
+Daario Naharis
+Danarys Targaryen
+Davos Seaworth
+dent*
+déshydraté
+Dijkstra
+Dobby
+Dolores Jane Umbridge
+Drago Malfoy
+Eddard Stark
+entier
+entrailles
+file
+file de priorité
+flaque
+flottant
+Floyd-Warshall
+fonction
+Fred and George Weasley
+Gendry
+Gilly
+Ginny Weasley
+Green Arrow
+Green Lantern
+Grégor "La Montagne" Clegane
+Grey Worm
+Groot
+Harley Quinn
+Harry Potter
+Hermione Granger
+Hodor
+Hörner
+Iron Man
+Iroquois*
+Jaime Lannister
+James Potter
+Jaqen H'ghar
+J.A.R.V.I.S.
+Joffrey Barathéon
+Jon Snow
+Jorah Mormont
+Karatsuba
+Khal Drogo
+La-Corneille-à-Trois-Yeux
+Lancel Lannister
+lancer
+La Sorcière Rouge
+Le grand moineau (high sparrow)
+Le Joker
+Le soldat de l'hiver
 ligaturer*
+Lily Potter
+L'incroyable Hulk
+lisière
+liste
+Loki
+Loras Tyrell
+Lord Voldemort
+Lucius Malfoy
+Luke Skywalker
+Luna Lovegood
+Mance Rayder
+Margery Tyrell
+Meera Reed
+Mélisandre
+Mestre Aemon
+Mestre Pycelle
+Minerva McGonagall
+minerve
 minuscule
+Missandei
+Molly Weasley
+moule
 moyenne*
+Mr Spock
+Napoléon
+Neville Longbottom
+Nick Fury
+Nightwing
 nœud papillon
+Oberyn Martell
+Obi-Wan Kenobi
+Odin
+Œil-de-faucon
+Olenna Tyrell
+oreille
+pain de sucre
+paramètre
 parapluie
+Peter "Littlefinger" Baylish
+Peter Pettigrew
+pile
+Podrick Payne
 porte-fenêtre
 poussette*
+programme
+putois*
+radeau
+Ramsay Bolton
+réel
+Remus Lupin
+Renly Barathéon
 rez-de-chaussee
+rire*
+Robert Barathéon
+Robin
+Rob Stark
+Ron Weasley
+Roose Bolton
+Rorschach
+Rubeus Hagrid
+Samwell Tarly
+Sander "Le Limier" Clegane
+Severus Snape
+Shae
+Shazam
+Shireen Barathéon
+Sirius Black
+spatule
+Spider-Man
+Stannis Barathéon
+Steve Jobs
+Strassen
 sucre-glace*
+Supergirl
+Superman
+Syrio Forel
+tableau
+test if/then/else
+Thanos
+The Flash
+The Night King
+Théon Greyjoy
+Thor
+Thoros of Myr
+TODO
+Tommen Barathéon
+Tormund Giantsbane
+tracteur
+tri à bulle
+tri cocktail
+tri fusion
+tri par tas
+tri rapide
 trouer
+Tyrion Lannister
+Tywin Lannister
+variable
+Varys "l'araignée"
+Viserys Targeryen
+Walder Frey
+Wonder Woman
+Yara Greyjoy
+Ygritte
