@@ -13,8 +13,8 @@ Exemple de 10 mots : terre, climatiseur, guidon, balai, crier, télévision, ban
 - Voulez-vous proposer des listes de mots particulières (par exemple [ces mots de l'univers de Star Trek](https://github.com/coco33920/Star-Trek-Pictionnary/blob/master/startrek_pictionnary_en.txt)) ? Pareil !
 
 ### Sources ?
-- [@nicolasfostier/DrawingLeague/blob/master/res/dictionaries/easy_french.txt](https://github.com/nicolasfostier/DrawingLeague/blob/master/res/dictionaries/easy_french.txt) (sous licence GPLv3.0)
-- [@Haskkor/Pictionnary/blob/master/Pictionary/dictionary.txt](https://github.com/Haskkor/Pictionnary/blob/master/Pictionary/dictionary.txt) ([pas de license...](https://github.com/Haskkor/Pictionnary/issues/1))
+- [@nicolasfostier/DrawingLeague/blob/master/res/dictionaries/easy_french.txt](https://github.com/nicolasfostier/DrawingLeague/blob/master/res/dictionaries/easy_french.txt) (sous licence GPLv3.0, pas forcément compatible avec ma licence MIT, cf [ce ticket](https://github.com/nicolasfostier/DrawingLeague/issues/1))
+- [@Haskkor/Pictionnary/blob/master/Pictionary/dictionary.txt](https://github.com/Haskkor/Pictionnary/blob/master/Pictionary/dictionary.txt) (pas de license... cf [cet autre ticket](https://github.com/Haskkor/Pictionnary/issues/1))
 
 ## :gb::us: In English - TODO
 
