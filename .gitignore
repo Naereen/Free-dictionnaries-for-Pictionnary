@@ -1,0 +1,12 @@
+*~
+*.pyc
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*.log
+*.html
+*.pdf
+*.so
+\#*\#
+__pycache__/
+*.annot
+*.json
