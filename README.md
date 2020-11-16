@@ -2,6 +2,26 @@
 
 This project gives a few lists of words (so far, only in :gb::us: English and :fr: French), to be used when playing Pictionnary.
 
+**What's Pictionnary**? [page Wikipédia en français](https://fr.wikipedia.org/wiki/Pictionary), [Wikipédia page in English](https://en.wikipedia.org/wiki/Pictionary)
+
+> :fr: *Pictionary est un jeu de société dont le but est de faire deviner un mot, une expression ou une idée à son partenaire dans un temps limité, à l'aide d'un dessin. Le nom est une contraction des mots anglais picture et dictionary.*
+
+> :gb::us: *Pictionary is a charades-inspired word-guessing game invented by Robert Angel with graphic design by Gary Everson and first published in 1985 by Angel Games Inc. The game is played in teams with players trying to identify specific words from their teammates.*
+
+---
+
+## Appli web pour choisir un mot aléatoire ?
+
+TODO cf [ce ticket #14](https://github.com/Naereen/Free-dictionnaries-for-Pictionnary/issues/14)
+
+---
+
+## Librairie TypeScript ou JavaScript pour choisir un mot aléatoire ?
+
+TODO cf [ce ticket #14](https://github.com/Naereen/Free-dictionnaries-for-Pictionnary/issues/14)
+
+---
+
 ## :fr: En français
 Regardez ce fichier : [dictionnaire_pictionnary_francais.txt](dictionnaire_pictionnary_francais.txt).
 
