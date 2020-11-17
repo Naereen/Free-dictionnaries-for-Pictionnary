@@ -1,3 +1,147 @@
+/* Style for https://perso.crans.org/besson/Rennes-en-Resilience/carte/carte.html */
+
+body {
+    margin: 2em 1em 1em 5em !important;
+}
+
+body,
+p,
+a,
+em,
+i,
+ul,
+ol,
+li,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    -webkit-font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+    -moz-font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+    -ms-font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+    font-feature-settings: "liga" on, "hlig" on, "hist" on, "dlig" on, "zero" on, "calt" on, "swsh" on, "kern" on, "locl" on;
+}
+
+p {
+    text-align: justify;
+}
+
+center p,
+[align="center"] p {
+    text-align: center;
+}
+
+.alignright {
+    position: absolute;
+    right: 5vw;
+    /* width: 1em; */
+    /* border: 3px solid #73AD21; */
+    /* padding: 10px; */
+}
+
+.map {
+    margin: auto !important;
+    z-index: 1000;
+    height: 800px;
+    width: 98%;
+}
+
+@media screen and (max-width: 1280px) {
+    body {
+        margin: 1em 0.5em 0.5em !important;
+    }
+    .map {
+        height: 640px;
+    }
+}
+
+@media screen and (max-width: 980px) {
+    body {
+        margin: 1em 0.4em 0.4em 5em !important;
+    }
+    .map {
+        height: 490px;
+    }
+}
+
+@media screen and (max-width: 736px) {
+    body {
+        margin: 1em 0.35em 0.35em 5em !important;
+    }
+    .map {
+        height: 368px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body {
+        margin: 1em 0.3em 0.3em 5em !important;
+    }
+    .map {
+        height: 240px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    body {
+        margin: 1em 0.25em 0.25em 5em !important;
+    }
+    .map {
+        height: 180px;
+    }
+}
+
+.love {
+    display: inline-block;
+    position: relative;
+    font-size: 1.5em;
+    color: #f95959;
+    ;
+    -webkit-transform: scale(.9);
+    -moz-transform: scale(.9);
+    transform: scale(.9);
+    -webkit-animation: love .5s infinite linear alternate-reverse;
+    -moz-animation: love .5s infinite linear alternate-reverse;
+    animation: love .5s infinite linear alternate-reverse;
+}
+
+@-webkit-keyframes love {
+    to {
+        -webkit-transform: scale(1.1);
+    }
+}
+
+@-moz-keyframes love {
+    to {
+        -moz-transform: scale(1.1);
+    }
+}
+
+@keyframes love {
+    to {
+        transform: scale(1.1);
+    }
+}
+
+@font-face {
+    font-family: "LilianHandwrittingFont";
+    src: url('../fonts/LilianHandwrittingFont.ttf') format("truetype"), url('../fonts/LilianHandwrittingFont.otf') format("opentype"), url('../fonts/LilianHandwrittingFont.woff') format('woff');
+}
+
+.LilianHandwrittingFont {
+    font-family: 'LilianHandwrittingFont', sans-serif;
+    letter-spacing: -0.15em;
+    word-spacing: +0.5em;
+}
+
+form .center {
+    margin-left: 2em !important;
+    margin-right: 2em !important;
+}
+
 body {
     margin: 40px auto;
     max-width: 650px;
