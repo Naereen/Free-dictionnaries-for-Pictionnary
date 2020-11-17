@@ -22,11 +22,13 @@ alarme
 Alastor "Fol-oeil" Moody
 Albus Dumbledore
 alcool
+alerter*
 algorithme
 allumette
 alphabet
 ambulance
 ampoule
+amygdale*
 ananas
 ancre
 âne
@@ -78,7 +80,7 @@ Balon Greyjoy
 banane
 banc
 bandit
-bandouillère*
+bandoulière*
 banjo
 banque
 banquet
@@ -90,6 +92,7 @@ barbelé
 baril
 barre-à-mine
 barreau
+barrer
 Barristan Selmy
 basket
 bateau
@@ -110,6 +113,7 @@ béton
 beurre
 bible
 bière
+bifurquer
 bijou
 billard
 bille
@@ -208,6 +212,7 @@ caramel
 carapace
 carburant
 carotte
+carré
 carrosse
 carrosserie
 cartable
@@ -249,6 +254,7 @@ champ
 champagne
 champignon
 champion
+chandelier
 chandelle
 chanter
 chapeau
@@ -276,6 +282,7 @@ chevalet
 chevalier
 cheveux
 cheville
+chèvre
 chien
 chimie
 chinois
@@ -316,6 +323,7 @@ Cléopâtre*
 client
 climatiseur
 cloche
+cloison*
 clonage
 clôture
 clou
@@ -337,6 +345,7 @@ collier
 colline
 colonne
 coloriage
+combiné
 comète
 commode
 compas
@@ -398,6 +407,7 @@ Craster
 cratère
 cravate
 crayon
+création*
 crédit
 crème
 crêpe
@@ -431,7 +441,9 @@ dauphin
 Davos Seaworth
 déborder
 debout
+décalcomanie*
 décapiter
+décapiter*
 décapotable
 décoller
 décolleté
@@ -448,6 +460,7 @@ démon
 dent
 dent*
 dentiste
+dentiste*
 départ
 déprimer
 déraper
@@ -460,6 +473,7 @@ dessert
 dessin
 dessiner
 dette
+deuxième étage
 déverrouiller
 diable
 diamant
@@ -525,7 +539,9 @@ effacer
 élastique
 élection
 électricité
+électrocuter
 éléphant
+éléphant de mer
 elfe
 emballage
 embarquer
@@ -538,9 +554,11 @@ empreinte
 enceinte
 enchère
 encre
+encre*
 encrier
 enfant
 enfer
+engrais
 ennui
 enregistrer
 enterrement
@@ -573,11 +591,14 @@ estomac
 étagère
 été
 éternel
+étêter*
 étincelle
 étiquette
 étoile
 étouffer
 étrangler
+étui à lunettes*
+Europe*
 évasion
 évier
 évolution
@@ -592,6 +613,7 @@ famille
 fantôme
 farine
 fax
+fêler*
 fêlure
 femme
 fenêtre
@@ -708,6 +730,7 @@ grève
 Grey Worm
 griffe
 grille
+grille-pain
 Groot
 gros
 grotte
@@ -748,6 +771,7 @@ homard
 homme
 hôpital
 horizon
+horizontal
 Hörner
 hôtel
 hublot
@@ -761,10 +785,12 @@ idée
 igloo
 île
 image
+imbiber*
 impasse
 impression
 imprimante
 incendie
+incisive
 index
 indice
 infini
@@ -801,6 +827,7 @@ joker
 Jon Snow
 Jorah Mormont
 joue
+jouer au golf*
 jouet
 juge
 jumelle
@@ -812,6 +839,7 @@ karaté
 Karatsuba
 kart
 kayak
+kayak*
 ketchup
 Khal Drogo
 kiosque
@@ -851,6 +879,7 @@ lettre
 levier
 lèvre
 lézard
+lézard*
 lichen
 liège
 ligaturer*
@@ -897,6 +926,7 @@ Mance Rayder
 manche
 manège
 manette
+mangeoire*
 manger
 manifestation
 mannequin
@@ -1000,6 +1030,7 @@ nucléaire
 nuit
 obélisque
 Oberyn Martell
+obèse
 Obi-Wan Kenobi
 océan
 Odin
@@ -1024,6 +1055,7 @@ orchestre
 ordinateur
 oreille
 orgue
+orphelin*
 os
 otage
 otarie
@@ -1054,6 +1086,7 @@ paramètre
 parapluie
 parchemin
 parebrise
+pare-brise
 parent
 parfum
 parking
@@ -1077,6 +1110,7 @@ pélican
 pelle
 pellicule
 peluche
+pendentif*
 pendule
 pépite
 perceuse
@@ -1097,6 +1131,7 @@ peur
 phare
 pharmacie
 pharmacien
+phonographe*
 photo
 piano
 pic
@@ -1109,6 +1144,7 @@ pilote
 pilule
 piment
 pinceau
+pince-nez*
 piqûre
 pirate
 pistolet
@@ -1120,6 +1156,9 @@ planche
 planète
 planeur
 plante
+planter*
+plaque*
+play-boy*
 pleurer
 plombier
 plongeur
@@ -1141,6 +1180,7 @@ pomme
 pompier
 pompon
 pont
+pont-levis
 pop-corn
 porc
 port
@@ -1156,6 +1196,7 @@ poudre
 poule
 poumon
 poupée
+poupée*
 poussette
 poussette*
 poutre
@@ -1171,6 +1212,7 @@ projecteur
 puce
 puits
 purée
+pustule*
 putois*
 pyramide
 quai
@@ -1190,12 +1232,14 @@ rasoir
 rat
 ravioli
 rayon
+rayons de vélo
 rayure
 recherche
 récompense
 rectangle
 recycler
 réel
+reflet
 règle
 réglisse
 reine
@@ -1215,7 +1259,7 @@ rétro
 rêve
 réveil
 revolver
-rez-de-chaussee
+rez-de-chaussée
 rhinocéros
 ride
 rigoler
@@ -1231,6 +1275,7 @@ rocher
 rodéo
 roi
 roller
+ronce
 Ron Weasley
 Roose Bolton
 Rorschach
@@ -1251,6 +1296,7 @@ sabot
 sabre
 sac
 salade
+salive
 salon
 Samwell Tarly
 Sander "Le Limier" Clegane
@@ -1274,6 +1320,7 @@ sel
 selle
 semelle
 serpent
+serpentin
 serre
 serrure
 serviette
@@ -1285,6 +1332,7 @@ shérif
 Shireen Barathéon
 short
 siège
+siffler
 sifflet
 signature
 silence
@@ -1318,6 +1366,7 @@ sucre
 sucre-glace*
 suer
 sueur
+suffoquer*
 sumo
 Supergirl
 Superman
@@ -1329,6 +1378,7 @@ tableau
 tablette
 tablier
 tache
+taille
 talon
 tambour
 tapis
@@ -1377,6 +1427,9 @@ tournevis
 tournoi
 tracteur
 train
+traineau
+traire
+tramway
 trappe
 trèfle
 tremper
@@ -1412,6 +1465,7 @@ vase
 vaudou
 veine
 vélo
+venin
 vent
 ventilateur
 ventouse
@@ -1419,6 +1473,8 @@ verre
 viande
 victoire
 vidéo
+vide-ordures
+vignoble*
 vin
 violon
 violoncelle
@@ -1436,6 +1492,7 @@ vomir
 voyager
 wagon
 Walder Frey
+winchester*
 Wonder Woman
 xylophone
 yaourt
