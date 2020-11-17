@@ -15,3 +15,6 @@ compile_fr:
 
 compile_en:
 	cat src/*_english.txt | sort | uniq > dist/dictionnary_pictionnary_english.txt
+
+webserver:
+	python3 -m http.server
