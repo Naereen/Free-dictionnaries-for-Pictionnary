@@ -10,7 +10,7 @@ This project gives a few lists of words (so far, only in :gb::us: English and :f
 
 ---
 
-## Appli web pour choisir un mot aléatoire ?
+## [Appli web pour choisir un mot aléatoire ?](https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html)
 ![GIF of a demo of a tiny webpage to select a random word](demos/demo1.gif)
 
 TODO cf [ce ticket #14](https://github.com/Naereen/Free-dictionnaries-for-Pictionnary/issues/14)
@@ -18,8 +18,9 @@ TODO cf [ce ticket #14](https://github.com/Naereen/Free-dictionnaries-for-Pictio
 ---
 
 ## Librairie TypeScript ou JavaScript pour choisir un mot aléatoire ?
+Voir [ce fichier (work in progress)](lib/random-pictionnary-word.js).
 
-TODO cf [ce ticket #14](https://github.com/Naereen/Free-dictionnaries-for-Pictionnary/issues/14)
+TODO cf [ce ticket #15](https://github.com/Naereen/Free-dictionnaries-for-Pictionnary/issues/15)
 
 ---
 
