@@ -3,10 +3,12 @@ abeille
 abricot
 accident
 accordéon
+accoucher
 accoudoir
 accrocher
 acide
 acier
+acteur
 Ada Lovelace
 addition
 aéroplane
@@ -24,6 +26,7 @@ Albus Dumbledore
 alcool
 alerter*
 algorithme
+allumer une bougie
 allumette
 alphabet
 ambulance
@@ -52,6 +55,7 @@ armoire
 arroser
 arrosoir
 Arthur Weasley
+artichaut
 Arya Stark
 ascenseur
 aspirateur
@@ -61,9 +65,12 @@ auréole
 automne
 automobile
 autoradio
+autostop
 autruche
 aveugle
 avion
+avoir mal aux dents
+avoir une idée
 babouche
 bac
 bactérie
@@ -108,6 +115,7 @@ Benric Dondarrion
 béquille
 berceau
 beret
+berger
 best seller
 béton
 beurre
@@ -128,6 +136,7 @@ bobine
 boire
 bois
 bombe
+bonhomme de neige
 bonnet
 booléen
 boomrang
@@ -180,6 +189,7 @@ cabane
 cabaret*
 câble
 cacao
+cachalot
 cactus
 cadeau
 cadenas
@@ -256,7 +266,9 @@ champignon
 champion
 chandelier
 chandelle
+changer un bébé
 chanter
+chanter la Marseillaise
 chapeau
 charbon
 chargeur
@@ -274,6 +286,7 @@ chaussure
 chauve
 chef
 chemin
+cheminée
 chenille
 chèque
 chercheur
@@ -293,6 +306,7 @@ chocolat
 choix
 choral
 chorizo
+chou de bruxelles
 chouette
 chouette*
 chromosome
@@ -313,8 +327,10 @@ cintre
 circuit
 cirque
 ciseau
+ciseaux
 citron
 claque
+claquer une porte
 classeur
 clavecin
 clavier
@@ -335,6 +351,7 @@ Cocke-Younger-Kasami
 cocktail
 code-barres
 coffre
+coffre-fort
 cogner
 coiffeur
 col
@@ -392,8 +409,10 @@ coude
 coudre
 couette
 couleur
+couper du bois
 couple
 courir
+courir un marathon
 course
 coût
 couteau
@@ -422,6 +441,7 @@ croix
 crotte
 croûton
 cube
+cueillir des pommes
 cuillière
 cuir
 cuisine
@@ -429,6 +449,7 @@ cuisse
 cuivre
 cul
 culotte
+curling (sport)
 cycle
 cygne
 cylindre
@@ -437,6 +458,7 @@ dague
 dalle
 Danarys Targaryen
 danser
+danser le tango
 dauphin
 Davos Seaworth
 déborder
@@ -456,6 +478,7 @@ déjeuner
 démaquiller
 démarrer
 démêler
+déménager
 démon
 dent
 dent*
@@ -529,6 +552,7 @@ eau
 écran
 écraser
 écrire
+écrire un sms
 écureuil
 Eddard Stark
 effacer
@@ -587,16 +611,20 @@ escrime
 esquimau
 essence
 essuie-glace
+esthéticienne
 estomac
 étagère
 été
+étendre le linge
 éternel
+éternuer
 étêter*
 étincelle
 étiquette
 étoile
 étouffer
 étrangler
+être en retard
 étui à lunettes*
 Europe*
 évasion
@@ -609,6 +637,10 @@ extincteur
 extraterrestre
 facteur
 facture
+faire des crèpes
+faire la vaisselle
+faire ses devoirs
+faire une raclette
 famille
 fantôme
 farine
@@ -651,13 +683,16 @@ forage
 forain
 forêt
 forge
+Formule 1
 fosse
 foudre
 fouet
 foule
 fourche
+fourchette
 fourgon
 fourmi
+fourmilier
 fourrure
 fracture
 fraise
@@ -694,6 +729,7 @@ géant
 gel
 Gendry
 gêne
+génie
 genou
 genre
 gentil
@@ -731,6 +767,7 @@ Grey Worm
 griffe
 grille
 grille-pain
+grimper à un arbre
 Groot
 gros
 grotte
@@ -765,6 +802,7 @@ hibou
 hier
 hippocampe
 hiver
+hockey sur gazon
 Hodor
 hologramme
 homard
@@ -822,13 +860,18 @@ javelot
 jazz
 jean
 jeu
+jeu de cartes
 Joffrey Barathéon
 joker
 Jon Snow
 Jorah Mormont
 joue
 jouer au golf*
+jouer au poker
+jouer aux lego
+jouer du ukulélé
 jouet
+judo
 juge
 jumelle
 jungle
@@ -855,6 +898,7 @@ laisse
 lait
 lama
 lampe
+lampe à huile
 lampion
 lance
 Lancel Lannister
@@ -885,13 +929,17 @@ liège
 ligaturer*
 Lily Potter
 limace
+limousine
 L'incroyable Hulk
 linge
 lion
 liquide
+lire dans les lignes de la main
+lire un livre en braille
 lisière
 liste
 livre
+livrer un colis
 livreur
 locomotive
 logiciel
@@ -909,6 +957,7 @@ lumière
 Luna Lovegood
 lune
 lunette
+lunettes
 macaron
 machette
 mâchoire
@@ -921,6 +970,7 @@ maigre
 main
 malade
 maman
+mamie
 mammouth
 Mance Rayder
 manche
@@ -928,6 +978,7 @@ manège
 manette
 mangeoire*
 manger
+manger un hamburger
 manifestation
 mannequin
 manteau
@@ -938,12 +989,14 @@ marge
 Margery Tyrell
 mariage
 marionnette
+marionnettiste
 marmite
 marque
 marteau
 masque
 mât
 match
+mayonnaise
 mèche
 médaille
 médecin
@@ -1011,6 +1064,7 @@ navire
 neige
 néon
 net
+neveu
 Neville Longbottom
 niche
 Nick Fury
@@ -1022,6 +1076,7 @@ noisette
 noix
 nombril
 note
+notre dame
 nougat
 noyau
 nu
@@ -1037,6 +1092,7 @@ Odin
 oeil
 Œil-de-faucon
 oeuf
+œuf de pâques
 offre
 oie
 oignon
@@ -1060,6 +1116,8 @@ os
 otage
 otarie
 ours
+oursin
+ours polaire
 outil
 ovni
 paille
@@ -1095,12 +1153,14 @@ pastèque
 patate
 pâte
 pâté
+pâte à modeler
 patin
 pause
 pauvre
 pays
 peau
 pêcher
+pêcheur
 pédale
 peigne
 peignoir
@@ -1116,6 +1176,7 @@ pépite
 perceuse
 perche
 père
+père noël
 perle
 permis
 perroquet
@@ -1200,8 +1261,11 @@ poupée*
 poussette
 poussette*
 poutre
+Président de la République
 prier
+Printemps
 prise
+prise électrique
 prison
 prix
 procès
@@ -1214,6 +1278,7 @@ puits
 purée
 pustule*
 putois*
+pyjama
 pyramide
 quai
 queue
@@ -1226,6 +1291,8 @@ radio
 raie
 raisin
 rallonge
+ramasser des champignons
+ramper
 Ramsay Bolton
 râpe
 rasoir
@@ -1234,12 +1301,14 @@ ravioli
 rayon
 rayons de vélo
 rayure
+réalisateur
 recherche
 récompense
 rectangle
 recycler
 réel
 reflet
+regarder la télé
 règle
 réglisse
 reine
@@ -1267,6 +1336,7 @@ ring
 rire*
 rivière
 robe
+robe de mariée
 Robert Barathéon
 Robin
 robot
@@ -1283,6 +1353,7 @@ rose
 roter
 rôtie
 roue
+rouge à lèvres
 rouille
 route
 ruban
@@ -1295,9 +1366,11 @@ sable
 sabot
 sabre
 sac
+sage-femme
 salade
 salive
 salon
+samedi
 Samwell Tarly
 Sander "Le Limier" Clegane
 sandwich
@@ -1307,6 +1380,9 @@ satellite
 sauce
 saucisse
 saumon
+sauter à la corde
+sauter du plongeoir
+sauter en parachute
 savon
 saxophone
 scalpel
@@ -1316,7 +1392,9 @@ scie
 seau
 sec
 sèche-cheveux
+se coiffer les cheveux
 sel
+se laver les dents
 selle
 semelle
 serpent
@@ -1344,15 +1422,18 @@ soldat
 soleil
 sommaire
 sorcier
+sortir le chien
 souche
 souffler
 soupe
 sourcil
 souris
 spatule
+spéléologie
 sphinx
 Spider-Man
 sport
+squash
 squelette
 stade
 Stannis Barathéon
@@ -1379,6 +1460,7 @@ tablette
 tablier
 tache
 taille
+tailleur
 talon
 tambour
 tapis
@@ -1410,7 +1492,9 @@ TODO
 toile
 toilette
 tomate
+tomber amoureux
 Tommen Barathéon
+tondre la pelouse
 tong
 tonneau
 torche
@@ -1420,6 +1504,7 @@ tortue
 totem
 touche
 tour
+tour eiffel
 tournage
 tourner
 tournesol
@@ -1429,6 +1514,7 @@ tracteur
 train
 traineau
 traire
+traire une vache
 tramway
 trappe
 trèfle
@@ -1451,6 +1537,7 @@ tuile
 tunel
 turban
 tuyau
+Twitter
 Tyrion Lannister
 Tywin Lannister
 usine
@@ -1460,6 +1547,7 @@ valise
 valve
 vampire
 variable
+varicelle
 Varys "l'araignée"
 vase
 vaudou
