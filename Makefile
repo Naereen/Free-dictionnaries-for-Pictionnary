@@ -4,7 +4,7 @@ SHELL=/usr/bin/env /bin/bash
 all:	send
 
 send:	send_zamok
-send_zamok: clean
+send_zamok:
 	CP --exclude=.ipynb_checkpoints --exclude=.git ./ ${Szam}publis/Free-dictionnaries-for-Pictionnary.git
 
 exemple_fr_10:
