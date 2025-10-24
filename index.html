@@ -81,7 +81,11 @@
             var button = document.getElementById('generateButton');
             if (button) {
                 button.addEventListener('click', function() {
-                    alert(newUniqueRandomWord());
+                    if (typeof newUniqueRandomWord === 'function') {
+                        alert(newUniqueRandomWord());
+                    } else {
+                        console.error('newUniqueRandomWord function is not available');
+                    }
                 });
             }
         });
