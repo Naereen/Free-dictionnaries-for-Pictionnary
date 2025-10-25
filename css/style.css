@@ -143,12 +143,13 @@ form .center {
 }
 
 body {
-    margin: 40px auto;
+    margin: 0 auto;
     max-width: 750px;
     line-height: 1.6;
     font-size: 18px;
     color: #333;
     padding: 0 20px;
+    padding-top: 140px;
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     min-height: 100vh;
 }
@@ -162,13 +163,15 @@ h3 {
 /* Semantic HTML styling */
 header {
     text-align: center;
-    margin-bottom: 3em;
     padding: 2em 0;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    margin-left: -20px;
-    margin-right: -20px;
-    margin-top: -40px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    margin: 0;
 }
 
 header h1 {
@@ -277,15 +280,15 @@ footer a:hover {
 /* Inline notification styles */
 .notification {
     position: fixed;
-    top: 30px;
+    top: 50%;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translate(-50%, -50%);
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     padding: 1.2em 2.5em;
     border-radius: 50px;
     box-shadow: 0 8px 32px rgba(102, 126, 234, 0.5);
-    z-index: 1000;
+    z-index: 1001;
     font-size: 1.3em;
     font-weight: 700;
     text-align: center;
@@ -304,14 +307,14 @@ footer a:hover {
 
 @keyframes slideDownBounce {
     0% {
-        transform: translateX(-50%) translateY(-100px) scale(0.5);
+        transform: translate(-50%, -50%) scale(0.5);
         opacity: 0;
     }
     70% {
-        transform: translateX(-50%) translateY(10px) scale(1.05);
+        transform: translate(-50%, -50%) scale(1.05);
     }
     100% {
-        transform: translateX(-50%) translateY(0) scale(1);
+        transform: translate(-50%, -50%) scale(1);
         opacity: 1;
     }
 }
@@ -346,12 +349,11 @@ a {
 @media screen and (max-width: 768px) {
     body {
         padding: 0 15px;
+        padding-top: 120px;
         font-size: 16px;
     }
     
     header {
-        margin-left: -15px;
-        margin-right: -15px;
         padding: 1.5em 0;
     }
     
@@ -375,6 +377,10 @@ a {
 }
 
 @media screen and (max-width: 480px) {
+    body {
+        padding-top: 110px;
+    }
+    
     header h1 {
         font-size: 1.6em;
     }
