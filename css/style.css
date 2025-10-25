@@ -199,3 +199,39 @@ footer {
     display: inline-block;
     margin-top: 0.5em;
 }
+
+/* Inline notification styles */
+.notification {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #E95420;
+    color: white;
+    padding: 1em 2em;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    max-width: 90%;
+}
+
+.notification.show {
+    opacity: 1;
+    visibility: visible;
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from {
+        transform: translateX(-50%) translateY(-20px);
+    }
+    to {
+        transform: translateX(-50%) translateY(0);
+    }
+}

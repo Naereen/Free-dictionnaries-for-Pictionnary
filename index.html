@@ -33,6 +33,9 @@
         <h1>Random Pictionnary Word!</h1>
     </header>
     
+    <!-- Inline notification -->
+    <div id="notification" class="notification" role="alert" aria-live="polite"></div>
+    
     <main>
         <section class="generator-section">
             <div class="button-container">
@@ -52,7 +55,7 @@
         <section class="todo-section">
             <h2>TODO</h2>
             <ul>
-                <li>Add an inline alert and not this ugly window.alert()</li>
+                <li><del>Add an inline alert and not this ugly window.alert()</del> ✓</li>
                 <li>Add toggle buttons to add/remove special lists</li>
                 <li>
                     You can drag this bookmarklet to generate a random word from any webpage:
@@ -77,12 +80,34 @@
 
     <!-- JavaScript for button functionality -->
     <script>
+        // Variable to store the current timeout ID
+        var notificationTimeout = null;
+        
+        // Function to show inline notification
+        function showNotification(message, duration = 3000) {
+            var notification = document.getElementById('notification');
+            if (notification) {
+                // Clear any existing timeout
+                if (notificationTimeout) {
+                    clearTimeout(notificationTimeout);
+                }
+                
+                notification.textContent = message;
+                notification.classList.add('show');
+                
+                notificationTimeout = setTimeout(function() {
+                    notification.classList.remove('show');
+                    notificationTimeout = null;
+                }, duration);
+            }
+        }
+        
         document.addEventListener('DOMContentLoaded', function() {
             var button = document.getElementById('generateButton');
             if (button) {
                 button.addEventListener('click', function() {
                     if (typeof newUniqueRandomWord === 'function') {
-                        alert(newUniqueRandomWord());
+                        showNotification(newUniqueRandomWord());
                     } else {
                         console.error('newUniqueRandomWord function is not available');
                     }

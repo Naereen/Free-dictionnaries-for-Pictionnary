@@ -33,6 +33,9 @@
         <h1>Mot aléatoire pour Pictionnary !</h1>
     </header>
     
+    <!-- Notification en ligne -->
+    <div id="notification" class="notification" role="alert" aria-live="polite"></div>
+    
     <main>
         <section class="generator-section">
             <div class="button-container">
@@ -52,7 +55,7 @@
         <section class="todo-section">
             <h2>TODO</h2>
             <ul>
-                <li>Ajouter une alerte en ligne et non cette vilaine window.alert()</li>
+                <li><del>Ajouter une alerte en ligne et non cette vilaine window.alert()</del> ✓</li>
                 <li>Ajouter des boutons à bascule pour ajouter/supprimer des listes spéciales</li>
                 <li>
                     Vous pouvez glisser ce bookmarklet pour générer un mot aléatoire depuis n'importe quelle page web :
@@ -77,12 +80,34 @@
 
     <!-- JavaScript pour la fonctionnalité du bouton -->
     <script>
+        // Variable pour stocker l'ID du timeout actuel
+        var notificationTimeout = null;
+        
+        // Fonction pour afficher une notification en ligne
+        function showNotification(message, duration = 3000) {
+            var notification = document.getElementById('notification');
+            if (notification) {
+                // Effacer tout timeout existant
+                if (notificationTimeout) {
+                    clearTimeout(notificationTimeout);
+                }
+                
+                notification.textContent = message;
+                notification.classList.add('show');
+                
+                notificationTimeout = setTimeout(function() {
+                    notification.classList.remove('show');
+                    notificationTimeout = null;
+                }, duration);
+            }
+        }
+        
         document.addEventListener('DOMContentLoaded', function() {
             var button = document.getElementById('generateButton');
             if (button) {
                 button.addEventListener('click', function() {
                     if (typeof newUniqueRandomWord === 'function') {
-                        alert(newUniqueRandomWord());
+                        showNotification(newUniqueRandomWord());
                     } else {
                         console.error('La fonction newUniqueRandomWord n\'est pas disponible');
                     }
