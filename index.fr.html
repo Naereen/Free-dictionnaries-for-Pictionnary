@@ -80,15 +80,24 @@
 
     <!-- JavaScript pour la fonctionnalité du bouton -->
     <script>
+        // Variable pour stocker l'ID du timeout actuel
+        var notificationTimeout = null;
+        
         // Fonction pour afficher une notification en ligne
         function showNotification(message, duration = 3000) {
             var notification = document.getElementById('notification');
             if (notification) {
+                // Effacer tout timeout existant
+                if (notificationTimeout) {
+                    clearTimeout(notificationTimeout);
+                }
+                
                 notification.textContent = message;
                 notification.classList.add('show');
                 
-                setTimeout(function() {
+                notificationTimeout = setTimeout(function() {
                     notification.classList.remove('show');
+                    notificationTimeout = null;
                 }, duration);
             }
         }
