@@ -10,7 +10,11 @@ This project gives a few lists of words (so far, only in :gb::us: English and :f
 
 ---
 
-## [Appli web pour choisir un mot aléatoire ?](https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html)
+## Appli web pour choisir un mot aléatoire ?
+
+- :gb::us: [Version anglaise](https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.html)
+- :fr: [Version française](https://naereen.github.io/Free-dictionnaries-for-Pictionnary/index.fr.html)
+
 ![GIF of a demo of a tiny webpage to select a random word](demos/demo1.gif)
 
 TODO cf [ce ticket #14](https://github.com/Naereen/Free-dictionnaries-for-Pictionnary/issues/14)
