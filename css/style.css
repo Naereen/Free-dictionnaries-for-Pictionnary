@@ -1,7 +1,7 @@
 /* Style for https://perso.crans.org/besson/Rennes-en-Resilience/carte/carte.html */
 
 body {
-    margin: 2em 1em 1em 5em !important;
+    margin: 2em auto 1em auto !important;
 }
 
 body,
@@ -51,7 +51,7 @@ center p,
 
 @media screen and (max-width: 1280px) {
     body {
-        margin: 1em 0.5em 0.5em !important;
+        margin: 1em auto 0.5em auto !important;
     }
     .map {
         height: 640px;
@@ -60,7 +60,7 @@ center p,
 
 @media screen and (max-width: 980px) {
     body {
-        margin: 1em 0.4em 0.4em 5em !important;
+        margin: 1em auto 0.4em auto !important;
     }
     .map {
         height: 490px;
@@ -69,7 +69,7 @@ center p,
 
 @media screen and (max-width: 736px) {
     body {
-        margin: 1em 0.35em 0.35em 5em !important;
+        margin: 1em auto 0.35em auto !important;
     }
     .map {
         height: 368px;
@@ -78,7 +78,7 @@ center p,
 
 @media screen and (max-width: 480px) {
     body {
-        margin: 1em 0.3em 0.3em 5em !important;
+        margin: 1em auto 0.3em auto !important;
     }
     .map {
         height: 240px;
@@ -87,7 +87,7 @@ center p,
 
 @media screen and (max-width: 360px) {
     body {
-        margin: 1em 0.25em 0.25em 5em !important;
+        margin: 1em auto 0.25em auto !important;
     }
     .map {
         height: 180px;
