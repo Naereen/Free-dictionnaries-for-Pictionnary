@@ -194,9 +194,9 @@ section {
 .generator-section {
     margin: 2em 0;
     padding: 2em;
-    background: linear-gradient(135deg, #667eea22 0%, #764ba222 100%);
+    background: linear-gradient(135deg, rgba(102, 126, 234, 0.133) 0%, rgba(118, 75, 162, 0.133) 100%);
     border-radius: 12px;
-    border: 2px solid #667eea33;
+    border: 2px solid rgba(102, 126, 234, 0.2);
 }
 
 .button-container {
