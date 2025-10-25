@@ -170,7 +170,7 @@ header {
     top: 0;
     left: 0;
     right: 0;
-    z-index: 999;
+    z-index: 1000;
     margin: 0;
 }
 
@@ -288,7 +288,7 @@ footer a:hover {
     padding: 1.2em 2.5em;
     border-radius: 50px;
     box-shadow: 0 8px 32px rgba(102, 126, 234, 0.5);
-    z-index: 1000;
+    z-index: 1001;
     font-size: 1.3em;
     font-weight: 700;
     text-align: center;
